@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{4A6A23C7-040B-4AEC-8D90-3752749DC9BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRM2/Views/Cus/Create.cshtml">
+    <Files>
+      <File FileName="CRM2/Controllers/InvController.cs" Line="42" Column="10" />
+      <File FileName="CRM2/Views/Inv/Index.cshtml" Line="23" Column="8" />
+      <File FileName="CRM2/Controllers/EmpController.cs" Line="36" Column="10" />
+      <File FileName="CRM2/Views/Emp/Index.cshtml" Line="21" Column="47" />
+      <File FileName="CRM2/Views/Emp/Create.cshtml" Line="56" Column="98" />
+      <File FileName="CRM2/Controllers/CusController.cs" Line="53" Column="10" />
+      <File FileName="CRM2/Views/Cus/Create.cshtml" Line="58" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRM2" expanded="True">
+            <Node name="CRM2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Cus" expanded="True">
+                  <Node name="Create.cshtml" selected="True" />
+                </Node>
+                <Node name="Emp" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Inv" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CRM2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
