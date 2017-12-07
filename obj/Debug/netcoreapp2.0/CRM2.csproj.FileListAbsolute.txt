@@ -1,0 +1,11 @@
+/Users/esthersu/Documents/CC/CRM2/CRM2/bin/Debug/netcoreapp2.0/CRM2.deps.json
+/Users/esthersu/Documents/CC/CRM2/CRM2/bin/Debug/netcoreapp2.0/CRM2.runtimeconfig.json
+/Users/esthersu/Documents/CC/CRM2/CRM2/bin/Debug/netcoreapp2.0/CRM2.runtimeconfig.dev.json
+/Users/esthersu/Documents/CC/CRM2/CRM2/bin/Debug/netcoreapp2.0/CRM2.dll
+/Users/esthersu/Documents/CC/CRM2/CRM2/bin/Debug/netcoreapp2.0/CRM2.pdb
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/netcoreapp2.0/CRM2.csprojResolveAssemblyReference.cache
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/netcoreapp2.0/CRM2.csproj.CoreCompileInputs.cache
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/netcoreapp2.0/CRM2.AssemblyInfoInputs.cache
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/netcoreapp2.0/CRM2.AssemblyInfo.cs
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/netcoreapp2.0/CRM2.dll
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/netcoreapp2.0/CRM2.pdb

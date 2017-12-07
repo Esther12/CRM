@@ -1,0 +1,5 @@
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/net461/CRM2.csprojResolveAssemblyReference.cache
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/net461/CRM2.csproj.CRM2.exe.config
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/net461/CRM2.csproj.CoreCompileInputs.cache
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/net461/CRM2.AssemblyInfoInputs.cache
+/Users/esthersu/Documents/CC/CRM2/CRM2/obj/Debug/net461/CRM2.AssemblyInfo.cs
